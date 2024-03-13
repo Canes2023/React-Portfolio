@@ -1,0 +1,14 @@
+.nav {
+    display:flex;
+    justify-content: flex-end;
+    gap:1rem;
+    padding: 1rem;
+    background-color: #0e0d0d;
+    margin-top:0;
+}
+.nav li {
+    list-style: none;
+    font-weight: 500;
+    color: #0ba1e6;
+    text-decoration: inherit;
+}
