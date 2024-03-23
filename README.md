@@ -1,8 +1,5 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+For this assignment, I was tasked with making a React Portfolio showcasing my work, about me page, contact page, and resume page. I have completed it and everything is functional. Only minor issue is the footer on the projects page is covering half of my screenshot of Project 6. Haven't been able to fix it but I will keep trying. The about me page shows a picture of me and a description of me. The works page showcases half of my projects. These projects are all clickable and redirect you to their deployed websites allowing you to play with the apps yourself. They each have a short description as well. Below is the footer which contains my social links. As of now, only the github one works because I don't have a account with slack overflow or linkedin. My contact page has a working contact form that allows the user to send an email to me. If the user doesn't input a valid email address, the form will say so. It will also tell the user the form cannot remain empty. Last is the resume page. The resume page features a screenshot of my resume as well as a clickable button that installs a PDF version of my resume to the users computer. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+That's all! I hope you enjoy my Portfolio!
