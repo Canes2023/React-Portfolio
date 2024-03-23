@@ -14,19 +14,19 @@ const Root = () => {
 
             <li>
 
-                <Link to="/">About</Link>
+                <Link className = "Nav-Link" to="/">About</Link>
             </li>
              <li>
 
-                <Link to="/work">Work</Link>
+                <Link className = "Nav-Link" to="/work">Work</Link>
             </li>
              <li>
 
-                <Link to="/contact">Contact</Link>
+                <Link className = "Nav-Link" to="/contact">Contact</Link>
             </li>
              <li>
 
-                <Link to="/resume">Resume</Link>
+                <Link className = "Nav-Link" to="/resume">Resume</Link>
             </li>
         </ul>
         <Outlet/>

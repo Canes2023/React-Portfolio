@@ -1,0 +1,34 @@
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+  }
+
+.footer p {
+ margin-bottom: 10px;
+}
+
+.social-links {
+ display: flex;
+ justify-content: center;
+ gap: 20px;
+}
+
+.social-links a {
+ color: #fff;
+ text-decoration: none;
+ transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+ color: #ddd;
+}
+
+.error-message {
+ color: red;
+ font-size: 0.8em;
+}
